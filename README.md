@@ -1,3 +1,5 @@
+[![MasterHead](https://www.canva.com/design/DAFWoDl0_ac/4BLWtCiDvxjn9vTRmrhkuA/view?utm_content=DAFWoDl0_ac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
