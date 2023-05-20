@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://codepen.io/@akshatg720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@akshatg720" height="30" width="40" /></a>
 <a href="https://twitter.com/akshatg720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshatg720" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/akshat-gupta-9a8a5b205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akshat-gupta-9a8a5b205" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/akshatg720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akshatg720" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akshatg720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshatg720" height="30" width="40" /></a>
 </p>
 
