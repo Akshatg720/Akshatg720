@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshatg720" target="blank"><img src="https://img.shields.io/twitter/follow/akshatg720?logo=twitter&style=for-the-badge" alt="akshatg720" /></a> </p>
 
-- 🌱 I’m currently learning **Networking, Java Development**
+- 🌱 I’m currently learning **AR VR Application Development, Networking, Java Development**
 
 - 💬 Ask me about **Anything Thats Technology**
 
